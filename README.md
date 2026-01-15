@@ -1,1 +1,4 @@
 # PROYECTO-7
+## La aplicación nos da el análisis de anuncios de ventas de coches de una forma visual
+# Para poder visualizar nos da 2 opciones, la primera muestra un histograma del odómetro y agrupa la cantidad de vehículos dependiendo del kilometraje que tengan, por ejemplo, el conjunto de datos con mayor cantidad de autos es de 0 a 1999 kilometros con un total de 882 autos
+## El segundo gráfico es de dispersión y nos muestra la relación del kilometraje y el precio, nos ayuda a ver tendencias como el determinar que a mayor kilometraje el precio disminuye, de igual forma, detectar valores atípicos, por ejempo un auto con casi un millón de kilómetros que se vende en 59.9 k, que es más que muchos autos de menos de 200,000 kilometros
